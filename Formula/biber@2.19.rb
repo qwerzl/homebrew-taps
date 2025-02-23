@@ -1,4 +1,4 @@
-class Biber < Formula
+class BiberAT219 < Formula
   desc "Backend processor for BibLaTeX"
   homepage "https://sourceforge.net/projects/biblatex-biber/"
   url "https://github.com/plk/biber/archive/refs/tags/v2.19.tar.gz"
